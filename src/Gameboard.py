@@ -165,6 +165,6 @@ class GameBoardModel:
 
     def clear(self) -> None:
 
-        for i in self.__board:
-            for n in i:
-                n.clear()
+        for cells in self.__board:
+            for cell in cells:
+                cell.clear()
