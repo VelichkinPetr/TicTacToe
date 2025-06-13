@@ -20,7 +20,7 @@ pip install logging
 3. Запустить файл TicTacToe.py
 
 ### Вариант 2. Получить файл в .exe
-1. Скачать по ссылке ==> [TicTacToe.exe](https://disk.yandex.ru/d/5zzOZZl7ENBuhw "кара")
+1. Скачать по ссылке ==> [TicTacToe.exe](https://disk.yandex.ru/d/VQ-X3owkhkqNLA "кара")
 
 
 ## Функциональные возможности
