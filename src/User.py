@@ -30,7 +30,7 @@ class Player:
 
     def do_move(self, cell):
         cell.change_value(self._side)
-
+        return True
 
 
 class BotComputer:
